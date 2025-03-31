@@ -1,0 +1,29 @@
+# macOS 系統檔
+.DS_Store
+
+# Python 編譯與快取
+__pycache__/
+*.py[cod]
+*.so
+
+# 虛擬環境
+venv/
+env/
+ENV/
+.venv/
+
+# 編譯結果
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode/PyCharm 設定（可選）
+.vscode/
+.idea/
+
+# 日誌與中間檔
+*.log
+*.tmp
